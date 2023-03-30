@@ -1,0 +1,1 @@
+Data Source=LAPTOP-NBHGABK3;Initial Catalog=DB_BOOKSTORE;Integrated Security=True
